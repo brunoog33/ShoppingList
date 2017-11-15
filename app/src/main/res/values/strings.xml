@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="app_compra">Compra</string>
+    <string name="action_settings">Configurações</string>
+    <string name="compra_descricao">Descrição</string>
+    <string name="title_activity_compra">Compra</string>
+</resources>
